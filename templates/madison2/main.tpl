@@ -50,8 +50,8 @@
 				</header>
 				{speedbar}
 				[aviable=main]
-					<!--{include file="includes/slider.tpl"}
-					{include file="includes/topposts.tpl"} -->
+					{include file="includes/slider.tpl"}
+					{include file="includes/topposts.tpl"}
 				[/aviable]
 				<div class="container">
 					<div class="row" id="portamento-wrapper">
