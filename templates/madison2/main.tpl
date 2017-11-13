@@ -44,14 +44,14 @@
 						{login}
 						<div class="clr"></div>
 						<nav>
-						<!--	{include file="includes/topnav.tpl"} -->
+							{include file="includes/topnav.tpl"}
 						</nav> 
 					</div> <!-- .container.header --> 			
 				</header>
 				{speedbar}
 				[aviable=main]
-					{include file="includes/slider.tpl"}
-					{include file="includes/topposts.tpl"}
+					<!--{include file="includes/slider.tpl"}
+					{include file="includes/topposts.tpl"} -->
 				[/aviable]
 				<div class="container">
 					<div class="row" id="portamento-wrapper">
@@ -100,7 +100,7 @@
 									<img src="{THEME}/images/88-31.png" alt="Счётчик" class="fleft">
 									<img src="{THEME}/images/88-31.png" alt="Счётчик" class="fleft"> 
 								</div> <!-- .counters -->
-								<p>&copy;MMXVII EFB-KazakhstaN</p>
+								<p>&copy;MMXVII EFB-Kazakhstan</p>
 							</div>
 						</div> <!-- .row -->
 						<div class="copy">
