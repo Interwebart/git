@@ -38,7 +38,7 @@
 					<!-- Логотип -->
 					<a class="logotype" href="/" title="DataLife Engine">
 						<svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg>
-						<span class="title_hide">DataLife Engine</span>
+						<span class="title_hide">EFB-Kazakhstan </span>
 					</a>
 					<!-- / Логотип -->
 					<div class="topbar">
@@ -70,7 +70,7 @@
 				[available=main]
 				<div class="head_text">
 					<div class="head_text_in">
-						<h1 class="title ultrabold">DataLife Engine</h1>
+						<h1 class="title ultrabold">EFB KAZAKHSTAN</h1>
 						<p class="text">Собственный сайт без компромиссов!</p>
 					</div>
 				</div>
