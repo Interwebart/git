@@ -82,7 +82,7 @@
 							</div>asdasdasdasd
 							<div class="col1">
 								<h4>Правовая информация</h4>
-								<p>По, непроницаемоasdasdaй часто ощущением своему леса наслаждаюсь не вижу когда я вечном небо утра неисчислимые моей большим разновидности. Близость, чащей, под проскальзывает святая покоя к нас живет художником лишь образ наслаждаюсь моей никогда судившего туманится?</p>
+								<p>test git </p>
 							</div>
 							<div class="col1">
 								<div class="social_block clearfix">
@@ -100,7 +100,7 @@
 									<img src="{THEME}/images/88-31.png" alt="Счётчик" class="fleft">
 									<img src="{THEME}/images/88-31.png" alt="Счётчик" class="fleft"> 
 								</div> <!-- .counters -->
-								<p>&copy;MMXVII EFB-Kazakhstan</p>
+								<p>&copy;MMXVII EFB-Kazakhstan111</p>
 							</div>
 						</div> <!-- .row -->
 						<div class="copy">
