@@ -100,7 +100,7 @@
 									<img src="{THEME}/images/88-31.png" alt="Счётчик" class="fleft">
 									<img src="{THEME}/images/88-31.png" alt="Счётчик" class="fleft"> 
 								</div> <!-- .counters -->
-								<p>&copy;MMXVII EFB-Kazakhstan111</p>
+								<p>&copy;MMXVII EFB-KazakhstaN</p>
 							</div>
 						</div> <!-- .row -->
 						<div class="copy">
