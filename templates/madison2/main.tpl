@@ -40,11 +40,11 @@
 			<div class="main-container">
 				<header>
 					<div class="container header">
-						<a class="ir logo fleft" href="/">123</a>	
+						<a class="ir logo fleft" href="/"></a>
 						{login}
 						<div class="clr"></div>
 						<nav>
-						//	{include file="includes/topnav.tpl"}
+						<!--	{include file="includes/topnav.tpl"} -->
 						</nav> 
 					</div> <!-- .container.header --> 			
 				</header>
